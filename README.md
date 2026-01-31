@@ -48,6 +48,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import dsortsh from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-dsortsh@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/blas-ext-base-ndarray-dsortsh/tags). For example,
+
+```javascript
 import dsortsh from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-dsortsh@v0.1.0-deno/mod.js';
 ```
 
@@ -110,7 +115,7 @@ import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ctor@den
 import scalar2ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-from-scalar@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
 import ndarraylike2scalar from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ndarraylike2scalar@deno/mod.js';
-import dsortsh from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-dsortsh@v0.1.0-deno/mod.js';
+import dsortsh from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-dsortsh@deno/mod.js';
 
 var xbuf = discreteUniform( 10, -100, 100, {
     'dtype': 'float64'
