@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dsortsh from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-dsortsh@esm/index.mjs';
+import dsortsh from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-dsortsh@v0.1.0-esm/index.mjs';
 ```
 
 #### dsortsh( arrays )
@@ -115,7 +115,7 @@ import ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ctor@esm
 import scalar2ndarray from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-from-scalar@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
 import ndarraylike2scalar from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ndarraylike2scalar@esm/index.mjs';
-import dsortsh from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-dsortsh@esm/index.mjs';
+import dsortsh from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-ndarray-dsortsh@v0.1.0-esm/index.mjs';
 
 var xbuf = discreteUniform( 10, -100, 100, {
     'dtype': 'float64'
