@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/blas-ext-base-ndarray-dsortsh",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Sort a one-dimensional double-precision floating-point ndarray using Shellsort.",
   "license": "Apache-2.0",
   "author": {
@@ -92,7 +92,6 @@
     "array",
     "ndarray"
   ],
-  "__stdlib__": {},
   "funding": {
     "type": "opencollective",
     "url": "https://opencollective.com/stdlib"
