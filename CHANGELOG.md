@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-04-11)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`a889040`](https://github.com/stdlib-js/stdlib/commit/a889040bbfbd378e5f784bd19f0b24f88c9bb2b9) - **test:** ensure support for dtype instances _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
